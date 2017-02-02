@@ -1,6 +1,6 @@
-var mapRashmiApp = angular.module('mapRashmiApp', ['ngRoute', 'ngAnimate']);
+var mapHarmeetApp = angular.module('mapHarmeetApp', ['ngRoute', 'ngAnimate']);
 
-mapRashmiApp.config(function($routeProvider) {
+mapHarmeetApp.config(function($routeProvider) {
     $routeProvider
     	.when('/', {
     		templateUrl: 'welcome.html',
@@ -24,19 +24,19 @@ mapRashmiApp.config(function($routeProvider) {
 
 });
 
-mapRashmiApp.controller('mainController', function($scope) {
+mapHarmeetApp.controller('mainController', function($scope) {
     $scope.pageClass = 'home';
 });
 
-//mapRashmiApp.controller('loginController', function($scope,$http) {
+//mapHarmeetApp.controller('loginController', function($scope,$http) {
 
-mapRashmiApp.controller('loginController',function($scope,$http) {
+mapHarmeetApp.controller('loginController',function($scope,$http) {
     $scope.pageClass = 'login';
 
 	$scope.login=function (userName,pwd) {
 		//localStorage.setItem("name" , user);
 		//$scope.logins.push( localStorage.getItem("name") + " was logged in.");
-		if(userName=="rashmitripathi18@gmail.com" && pwd=="1234"){
+		if(userName=="Harmeet.singh57@gmail.com" && pwd=="1234"){
 						window.location.replace("home.html");
 		}
 		else {
@@ -57,11 +57,11 @@ mapRashmiApp.controller('loginController',function($scope,$http) {
 	}
 });
 
-mapRashmiApp.controller('registerController', function($scope) {
+mapHarmeetApp.controller('registerController', function($scope) {
     $scope.pageClass = 'register';
 });
 
-mapRashmiApp.controller('welcomeController', function($scope) {
+mapHarmeetApp.controller('welcomeController', function($scope) {
 	$scope.pageClass = 'welcome';
 });
 
