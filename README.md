@@ -7,3 +7,5 @@ Lab2-Harmeet Singh  wiki Page Link-https://github.com/Harmeet0005/ASE-Assignment
 Lab3- Wikipage Link-https://github.com/Harmeet0005/ASE-Assignment/wiki/Lab3
 
 Lab4- Wikipage Link-https://github.com/Harmeet0005/ASE-Assignment/wiki/Lab4
+
+Lab5- Wikipage Link- https://github.com/Harmeet0005/ASE-Assignment/wiki/Lab5
