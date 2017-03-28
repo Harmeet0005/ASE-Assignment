@@ -17,3 +17,5 @@ Lab7- Wikipage Link- https://github.com/Harmeet0005/ASE-Assignment/wiki/LAB7
 Lab8- Wikipge Link- https://github.com/Harmeet0005/ASE-Assignment/wiki/Lab-8
 
 Lab9- Wikipage Link- https://github.com/Harmeet0005/ASE-Assignment/wiki/Lab-9
+
+Lab-10 Wikipage Link- https://github.com/Harmeet0005/ASE-Assignment/wiki/Lab-10
